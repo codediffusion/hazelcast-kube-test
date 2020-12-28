@@ -1,1 +1,4 @@
+com/hazelcast/test/rest/HazelcastController.class
+com/hazelcast/test/config/HazelcastConfig.class
 com/hazelcast/test/ApplicationBootstrap.class
+com/hazelcast/test/config/SwaggerConfig.class
