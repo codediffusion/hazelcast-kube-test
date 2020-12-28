@@ -1,4 +1,4 @@
-package com.hazelcast.test;
+package com.hazelcast.test.config;
 
 import com.fasterxml.classmate.TypeResolver;
 import com.google.common.base.Predicate;
